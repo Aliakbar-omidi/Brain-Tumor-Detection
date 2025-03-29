@@ -13,7 +13,7 @@ The aim of this project is to leverage advanced machine learning algorithms and 
 This project aims to make a significant contribution toward improving early detection and treatment of brain-related conditions. It also highlights the potential of AI in revolutionizing healthcare diagnostics.
 
 
-
+------------------------------------------------------------------------------------------------------------------
 
 این پروژه بر تشخیص و دسته‌بندی تومورهای مغزی در گروه‌های زیر تمرکز دارد:
 
