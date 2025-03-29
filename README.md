@@ -1,4 +1,4 @@
-Brain Tumor Detection Project
+`Brain Tumor Detection Project
 This project focuses on the detection and classification of brain tumors into the following categories:
 NonDemented
 Very Mild Demented
@@ -10,7 +10,7 @@ This project aims to make a significant contribution toward improving early dete
 
 
 
-این پروژه بر تشخیص و دسته‌بندی تومورهای مغزی در گروه‌های زیر تمرکز دارد:\n
+این پروژه بر تشخیص و دسته‌بندی تومورهای مغزی در گروه‌های زیر تمرکز دارد:/n
 NonDemented (عدم زوال عقلی)
 Very Mild Demented (زوال عقلی بسیار خفیف)
 Mild Demented (زوال عقلی خفیف)
