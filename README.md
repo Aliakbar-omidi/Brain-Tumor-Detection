@@ -10,7 +10,7 @@ This project aims to make a significant contribution toward improving early dete
 
 
 
-این پروژه بر تشخیص و دسته‌بندی تومورهای مغزی در گروه‌های زیر تمرکز دارد:
+این پروژه بر تشخیص و دسته‌بندی تومورهای مغزی در گروه‌های زیر تمرکز دارد:\n
 NonDemented (عدم زوال عقلی)
 Very Mild Demented (زوال عقلی بسیار خفیف)
 Mild Demented (زوال عقلی خفیف)
